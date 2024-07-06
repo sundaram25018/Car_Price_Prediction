@@ -3,14 +3,23 @@ This project aims to build a machine learning model to predict the prices of car
 
 Table of Contents
 Introduction
+
 Dataset
+
 Installation
+
 Usage
+
 Model
+
 Results
+
 Contributing
+
 License
+
 Introduction
+
 Predicting car prices is crucial for various stakeholders, including car dealers, buyers, and sellers. This project uses machine learning algorithms to predict car prices based on features like make, model, year, mileage, and more.
 
 Dataset
@@ -27,12 +36,18 @@ You can download the dataset (https://www.kaggle.com/datasets/sukhmandeepsinghbr
 Model
 The project uses various machine learning algorithms, such as:
 
-"Random Forest" 
-"Extra Trees" 
-"Ada Boost",
-"Gradient Boosting"
-"Linear Regression",
-"XGBoost"
+1. "Random Forest"
+
+2. "Extra Trees" 
+
+3. "Ada Boost",
+
+4. "Gradient Boosting"
+
+5. "Linear Regression",
+
+6. "XGBoost"
+
 The best-performing model is selected based on evaluation metrics like RMSE, MAE, and R².
 
 ![algo](https://github.com/sundaram25018/Car_Price_Prediction/assets/122205914/cee238a7-647d-4fcb-962e-ff8454922139)
